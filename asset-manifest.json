@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/facerecognitionbrain/static/css/main.a3369302.chunk.css",
-    "main.js": "/facerecognitionbrain/static/js/main.29c1b25a.chunk.js",
-    "main.js.map": "/facerecognitionbrain/static/js/main.29c1b25a.chunk.js.map",
+    "main.js": "/facerecognitionbrain/static/js/main.8fe6d633.chunk.js",
+    "main.js.map": "/facerecognitionbrain/static/js/main.8fe6d633.chunk.js.map",
     "runtime-main.js": "/facerecognitionbrain/static/js/runtime-main.cef0f0d2.js",
     "runtime-main.js.map": "/facerecognitionbrain/static/js/runtime-main.cef0f0d2.js.map",
     "static/css/2.fe359a49.chunk.css": "/facerecognitionbrain/static/css/2.fe359a49.chunk.css",
-    "static/js/2.8358b46a.chunk.js": "/facerecognitionbrain/static/js/2.8358b46a.chunk.js",
-    "static/js/2.8358b46a.chunk.js.map": "/facerecognitionbrain/static/js/2.8358b46a.chunk.js.map",
+    "static/js/2.32a755ca.chunk.js": "/facerecognitionbrain/static/js/2.32a755ca.chunk.js",
+    "static/js/2.32a755ca.chunk.js.map": "/facerecognitionbrain/static/js/2.32a755ca.chunk.js.map",
     "static/js/3.321f2077.chunk.js": "/facerecognitionbrain/static/js/3.321f2077.chunk.js",
     "static/js/3.321f2077.chunk.js.map": "/facerecognitionbrain/static/js/3.321f2077.chunk.js.map",
     "index.html": "/facerecognitionbrain/index.html",
     "static/css/2.fe359a49.chunk.css.map": "/facerecognitionbrain/static/css/2.fe359a49.chunk.css.map",
     "static/css/main.a3369302.chunk.css.map": "/facerecognitionbrain/static/css/main.a3369302.chunk.css.map",
-    "static/js/2.8358b46a.chunk.js.LICENSE.txt": "/facerecognitionbrain/static/js/2.8358b46a.chunk.js.LICENSE.txt"
+    "static/js/2.32a755ca.chunk.js.LICENSE.txt": "/facerecognitionbrain/static/js/2.32a755ca.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cef0f0d2.js",
     "static/css/2.fe359a49.chunk.css",
-    "static/js/2.8358b46a.chunk.js",
+    "static/js/2.32a755ca.chunk.js",
     "static/css/main.a3369302.chunk.css",
-    "static/js/main.29c1b25a.chunk.js"
+    "static/js/main.8fe6d633.chunk.js"
   ]
 }
